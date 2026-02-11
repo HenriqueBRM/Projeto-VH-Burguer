@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VH_Burguer.props" />
+</Project>
